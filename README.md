@@ -28,6 +28,7 @@
 #### Participação em Grupo de Arecadação de Alimentos para Famílias Carentes (Grupo Renascer e Vicentinos)
 #### Participação em Implantação de Grupo de Recuperação de Dependentes Químicos (Casa Esperança e Vida) em Araras
 #### Participação em Grupo de Visita a Pessoas privadas de Liberdade (Carceragem) (Igreja do Evangelho Quadrangular)
+#### 
 
 ## Desenvolvimento Pessoal
 
@@ -36,5 +37,8 @@
 #### Curso de Instalação de Software (SO e Aplicações) - 2000
 #### Curso de Manutenção em Hardware - 2005
 #### Curso Básico de Linux - Mandrake 
+#### Curso de Inglês Básico CNA
+#### Inglês técnico para Computação
+
 
 
