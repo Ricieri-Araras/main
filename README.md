@@ -11,10 +11,11 @@
 
 ## Desenvolvimento Profissional
 
-### Nestlé Brasil Ltda (1995-atual) 26 anos 
+### Nestlé Brasil Ltda (1995-atual) 27 anos 
 
-#### Operador de Maquinas de Embalar/ Encaixotar
-#### Operador de Empilhadeira
+#### Operador de Maquinas de Embalar/ Encaixotar/ Tampadeira
+#### Auxiliar de Conferente (Recepção e Conferência de Produtos Terminados das Linhas de Produção - Nescafé, Achocolatados Pós e UHT)
+#### Operador de Empilhadeira (Recepção de Cafés/ Abastecimento de Linhas de Produção Cafés)
 #### Operador de Maquinas 2 (Processo de Fabricação de Cafés Solúveis - Recepção de Cafés, Processo de Separação e Limpeza, Auxiliar em Extração de Extrato de Cafés, Auxiliar em Processo de Transformação de Cafés Solúveis)
 #### Participação em Sistemas de Auditoria Interna de Qualidade e Manutenção (2000 - 2005)
 #### Participação em Processos de Implantação de LEAN MANUFACTURE e TPM
@@ -38,7 +39,7 @@
 #### Curso de Manutenção em Hardware - 2005
 #### Curso Básico de Linux - Mandrake 
 #### Curso de Inglês Básico CNA
-#### Inglês técnico para Computação
+#### Inglês técnico para Computação - UNIP (1 ano) Uniararas (6 meses)
 
 
 
