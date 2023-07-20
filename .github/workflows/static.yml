@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<!-- @falvojr: Reference article https://www.w3schools.com/howto/howto_website_create_resume.asp -->
+<!-- @falvojr: Useful link to use fontawesome (fa) icons: https://fontawesome.com/v4/icons/ -->
+<html lang="pt-BR">
+
+<head>
+    <title>Ricieri da Silva</title>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Roboto'>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <style>
+        html,
+        body,
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            font-family: "Roboto", sans-serif
+        }
+    </style>
+
+</head>
+
+<body class="w3-light-grey" cz-shortcut-listen="true">
+
+    <!-- Page Container -->
+    <div class="w3-content w3-margin-top" style="max-width:1400px;">
+
+        <!-- The Grid -->
+        <div class="w3-row-padding">
+
+            <!-- Left Column -->
+            <div class="w3-third">
+
+                <div class="w3-white w3-text-grey w3-card-4">
+                    <!-- @falvojr: This container has been modified to not use a profile picture. -->
+                    <div class="w3-container">
+                        <h2>Ricieri da Silva</h2>
+                    </div>
+                    <div class="w3-container">
+                        <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-indigo"></i>Operador de Máquinas na Nestlé Araras - 28 anos</p>
+                        <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-indigo"></i>Araras-SP, Brasil</p>
+                        <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-indigo"></i>ricieri.silva@gmail.com</p>
+                        <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-indigo"></i>(19) 998042362</p>
+                        <hr>
+
+                        <p class="w3-large">
+                            <b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-indigo"></i>Skills</b>
+                        </p>
+                        <p>Python</p>
+                        <div class="w3-light-grey w3-round-xlarge w3-small">
+                            <div class="w3-container w3-center w3-round-xlarge w3-indigo" style="width:50%">50%</div>
+                        </div>
+                        <p>Java</p>
+                        <div class="w3-light-grey w3-round-xlarge w3-small">
+                            <div class="w3-container w3-center w3-round-xlarge w3-indigo" style="width:20%">20%</div>
+                        </div>
+                        <p>Android</p>
+                        <div class="w3-light-grey w3-round-xlarge w3-small">
+                            <div class="w3-container w3-center w3-round-xlarge w3-indigo" style="width:10%">10%</div>
+                        </div>
+                        <p>Koltin</p>
+                        <div class="w3-light-grey w3-round-xlarge w3-small">
+                            <div class="w3-container w3-center w3-round-xlarge w3-indigo" style="width:5%">5%</div>
+                        </div>
+                        <p>Spring Framework</p>
+                        <div class="w3-light-grey w3-round-xlarge w3-small">
+                            <div class="w3-container w3-center w3-round-xlarge w3-indigo" style="width:10%">10%</div>
+                        </div>
+                        <br>
+
+                        <p class="w3-large w3-text-theme">
+                            <b><i class="fa fa-globe fa-fw w3-margin-right w3-text-indigo"></i>Idiomas</b>
+                        </p>
+                        <p>Português</p>
+                        <div class="w3-light-grey w3-round-xlarge">
+                            <div class="w3-round-xlarge w3-indigo" style="height:24px;width:100%"></div>
+                        </div>
+                        <p>Inglês</p>
+                        <div class="w3-light-grey w3-round-xlarge">
+                            <div class="w3-round-xlarge w3-indigo" style="height:24px;width:40%"></div>
+                        </div>
+                        <p>Italiano</p>
+                        <div class="w3-light-grey w3-round-xlarge">
+                            <div class="w3-round-xlarge w3-indigo" style="height:24px;width:30%"></div>
+                        </div>
+                        <br>
+                    </div>
+                </div><br>
+
+                <!-- End Left Column -->
+            </div>
+
+            <!-- Right Column -->
+            <div class="w3-twothird">
+
+                <div class="w3-container w3-card w3-white w3-margin-bottom">
+                    <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-terminal fa-fw w3-margin-right w3-xxlarge w3-text-indigo"></i>Sobre</h2>
+                    <p>Cursando Sistemas para Internet na Faculdade de Tecnologia de Araras-SP (FATEC), onde tem aprendido linguagens de marcação como HTML5 e CSS3, linguagens de programação como C e C++, Python, Java, JavaScript, PHP, Kotlin, além de FrameWorks
+                        BootStrap4, Flutter e Angular. Não possui experiência profissional como programador, apenas tem desenvolvido projetos durante a formação e através da Plataforma de ensino da Digital Innovation DIO, com ênfase em sistemas Web e
+                        Mobile.
+                    </p>
+                    <p>Atualmente trabalha em ambiente produtivo de Fabricação de cafés solúveis Nescafé com função de folgador e substituto em férias, trabalhando desde a Recepção e Limpeza de Café Verde (matéria prima), operador de células de extração
+                        de cafés, auxiliar de Torre de Secagem de Cafés Solúves e Operador de Acondicionamento de Cafés Solúveis em Containers de aço(Totes), Octabins (Caixas) e Big Bags Exportações, além de análises de controle de Peso específico, cor
+                        e umidade de produto conforme perfil de produto.</p>
+                    <p>Formado em Teologia pela Faculdade Leonardo da Vinci - Uniasselvi(PR)</p>
+                    <p>Pós-Graduado em Docência do Ensino Superior pela Uniasselvi-Pós</p>
+                    <p>Formado em Técnico em Mecatrônica pelo Centro Paula Souza - Araras-SP</p>
+                </div>
+
+                <div class="w3-container w3-card w3-white w3-margin-bottom">
+                    <h2 class="w3-text-grey w3-padding-16">
+                        <i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-indigo"></i>Experiências
+                    </h2>
+                    <div class="w3-container">
+                        <h5 class="w3-opacity"><b>Experiências profissionais & Projetos</b></h5>
+                        <h6 class="w3-text-indigo"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Abril 1995 - <span class="w3-tag w3-indigo w3-round">Atual</span></h6>
+                        <p>Operador de Empilhadeira pelo SENAI com experiência em carregamento e descarregamento na Nestlé - Armazéns de Produto Terminado e Recepção de Cafés Verde</p>
+                        <p>Operador de Máquinas de Embalar e Encaixotar - Nestlé Achocolatados</p>
+                        <p>Auxiliar de Controle de Estoque, Recepção de Produto Terminado das Linhas de Produção Nescafés, Achocolatados e UHT, controle de envio e recepção de CoPackers, controle de armazenagem de Amostras - DEPÓSITO DE PRODUTOS TERMINADOS
+                            ARARAS
+                        </p>
+                        <p>Auditor Interno de Implantação de Sistemas de Qualidade ISO e Manutenção Preventiva (2000 a 2005)</p>
+                        <p>Projeto de Implantação de LEAN e TPM em linhas produtivas de Nescafés e Estamparia Araras (produção de embalagens metálicas)</p>
+                        <p>25 anos de experiência em Localização, Contagem e Controle de Ativos Fixos (Patrimônio)</p>
+                    </div>
+                </div>
+
+                <div class="w3-container w3-card w3-white">
+                    <h2 class="w3-text-grey w3-padding-16">
+                        <i class="fa fa-graduation-cap fa-fw w3-margin-right w3-xxlarge w3-text-indigo"></i>Educação
+                    </h2>
+                    <div class="w3-container">
+                        <h5 class="w3-opacity"><b> Cursos realizados através da Digital Innovation One (DIO)</b></h5>
+                        <h6 class="w3-text-indigo"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Maio 2021 - <span class="w3-tag w3-indigo w3-round">Atual</span></h6>
+                        <p>
+                            Maior plataforma de educação aberta em TI da América Latina, com mais 1 milhão de usuários. A DIO possui parcerias com algumas das empresas mais inovadoras do mundo, proporcionando experiências de ensino imersivas e com foco em empregabilidade. Nesse
+                            contexto, seguem meus principais certificados:
+                        </p>
+                        <ul>
+                            <li><a href="https://www.dio.me/certificate/762101D2" target="_blank">Curso: Introdução a Criação de Websites com HTML5 E CCS3 (6h)</a></li>
+                            <li><a href="https://www.dio.me/certificate/762101D2" target="_blank">Curso: Introdução ao Git e ao GitHub (5h)</a></li>
+                            <li><a href="https://www.dio.me/certificate/07041B99" target="_blank">Curso: Desenvolvimento Mobile Nativo Para Android (2h)</a></li>
+                            <li><a href="https://www.dio.me/certificate/F12AC30B" target="_blank">Curso: Fundamentos de Arquitetura de Sistemas (6h)</a></li>
+                            <li><a href="https://www.dio.me/certificate/3FB20BF1" target="_blank">Curso: Implementando Collections e Streams com Java (6h)</a></li>
+                            <li><a href="https://www.dio.me/certificate/3FB20BF1" target="_blank">Curso: Construindo páginas para internet com BootStrap (4h)</a></li>
+                            <li><a href="https://www.dio.me/certificate/3FB20BF1" target="_blank">Curso: Docker: Instalação, Armazenamento de dados, Processamentos, Logs e criação de Dockfiles (4h)</a></li>
+                        </ul>
+                        <hr>
+                    </div>
+                    <div class="w3-container">
+                        <h5 class="w3-opacity"><b>Falculdade de Tecnologia de Araras (FATEC) - cursando</b></h5>
+                        <h6 class="w3-text-indigo"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Julho 2021 - Dezembro 2023</h6>
+                        <p>Tecnologia em Sistemas para Internet - WEB e Mobile</p>
+                    </div>
+                </div>
+
+                <div class="w3-container w3-card w3-white w3-margin-bottom">
+                    <h2 class="w3-text-grey w3-padding-16">
+                        Projetos
+                    </h2>
+                    <div class="w3-container">
+                        <h6 class="w3-text-indigo">
+                            <img src="https://www.pythonanywhere.com/static/anywhere/images/PA-logo.svg" style="width:200px" class="w3-text-indigo">
+                            <br/>
+                            <a href="https://ricieri72.pythonanywhere.com/login" target="_blank">Supermercados Pague Mais/2023 - Python (Flask)</a>
+                        </h6>
+                        <p>Sistema de simulação de Supermercado com controle de usuários e lista de Produtos em Python (Flask App) com banco de dados em MySQL (MARIADB)</p>
+                        <p>usuário de acesso restrito: teste - senha: teste</p>
+                        <hr>
+                    </div>
+                    <div class="w3-container" hidden>
+                        <h6 class="w3-text-indigo">
+                            <i class="fa fa-gitlab fa-fw w3-margin-right"></i>
+                            <a href="https://gitlab.com/denilsonbonatti/kubernetes-projeto2-dio" target="_blank">denilsonbonatti/kubernetes-projeto2-dio</a>
+                        </h6>
+                        <p>Repositório no GitLab com um pipeline configurado em Kubernetes.</p>
+                    </div>
+                </div>
+
+                <!-- End Right Column -->
+            </div>
+
+            <!-- End Grid -->
+        </div>
+
+        <!-- End Page Container -->
+    </div>
+
+    <footer class="w3-container w3-indigo w3-center w3-margin-top">
+        <p>Minhas Redes Sociais</p>
+        <a href="https://github.com/ricieri-araras" target="_blank"><i class="fa fa-github w3-hover-opacity"></i></a>
+        <a href="https://www.linkedin.com/in/ricieri-da-silva-47690574" target="_blank"><i class="fa fa-linkedin w3-hover-opacity"></i></a>
+        <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+    </footer>
+
+</body>
+
+</html>
